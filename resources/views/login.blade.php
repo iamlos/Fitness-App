@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Laravel 5 Auth</title>
+    <title>Fitness App</title>
 
     <link href="{{ asset('/assets/plugins/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('/assets/plugins/metisMenu/dist/metisMenu.min.css') }}" rel="stylesheet">
